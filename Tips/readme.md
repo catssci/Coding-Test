@@ -3,3 +3,6 @@
 ### List
 ### Dictionary
 - Counter를 이용한 List -> Dictionary
+## 변수 타입
+### string
+- startwith, endwith
